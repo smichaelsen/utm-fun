@@ -16,3 +16,8 @@ After:
 ```
 https://example.com/?utm_device=fast&utm_placement=advert&utm_content=sidebar
 ```
+
+## Collaboration ideas
+
+1. Add new fun, boring or puzzling utm parameters and value to the list in `contentScript.js`.
+2. Expand the logic to also replace other tracking parameters than `utm_`.
