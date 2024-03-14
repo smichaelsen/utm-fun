@@ -112,6 +112,3 @@ const observerOptions = {
 // Create a MutationObserver instance and start observing
 const observer = new MutationObserver(observerCallback);
 observer.observe(document.body, observerOptions);
-
-//https://www.klartax.de/?utm_campaignid=KTX24-1&utm_campaign=klartax-online&utm_adset=flight1-24&utm_objective=awareness&utm_source=Social&utm_term=LI-Feed&utm_target=BT&utm_audience=saved-audience&utm_adid=WG&utm_medium=banner&utm_content=Video&utm_author=M232
-//https://www.klartax.de/?utm_keyword=ad&utm_audience=mobile&utm_device=organic&utm_name=desktop&utm_vid=email&utm_interaction=top-bar&utm_campaign=promotion&utm_medium=advert&utm_type=referral&utm_reader=referral&utm_reader=mobile&utm_target=cta
