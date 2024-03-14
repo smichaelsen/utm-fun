@@ -1,9 +1,9 @@
-# UTM Fun
+# UTM Fun 🎲
 
 A demo Chrome extension - not recommended for real world use!
 
 This browser extension detects UTM parameters on links and does _not_ remove them - that would be boring.
-To cause havoc it instead changes the keys and values of the UTM parameters in a way that will puzzle the tracking system.
+To cause havoc it instead randomly changes the keys and values of the UTM parameters in a way that will puzzle the tracking system.
 
 Before:
 
